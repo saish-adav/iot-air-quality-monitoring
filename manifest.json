@@ -1,0 +1,17 @@
+
+{
+    "fileLocations": [
+        {
+            "URIPrefixes": [
+                "S3://air-quality-logs/"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "JSON",
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
+                            
